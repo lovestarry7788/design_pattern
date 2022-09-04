@@ -29,10 +29,10 @@ class Factory {
 public:
     API* CreateAPI(ProductType product) {
         switch(product) {
-            case HI : {
+            case HI: {
                 return new Hi();
             }
-            case HELLO : {
+            case HELLO: {
                 return new Hello();
             }
             default:
