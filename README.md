@@ -11,7 +11,7 @@ c++ 设计模式实例代码
 
 结构型模式：通过类和接口间的继承和引用实现创建复杂结构的对象。该模式包含代理模式。
 
-行为型模式：通过类之间的不同通信方式实现不同行为。如策略模式。
+行为型模式：通过类之间的不同通信方式实现不同行为。如策略模式、观察者模式。
 
 
 #### 3. 单例模式有什么优缺点？什么时候使用它？
@@ -47,3 +47,4 @@ c++ 设计模式实例代码
 * [单例模式（Singleton) ](https://github.com/lovestarry7788/design_pattern/tree/master/03_singleton)
 * [代理模式（Proxy) ](https://github.com/lovestarry7788/design_pattern/tree/master/04_proxy)
 * [策略模式（Strategy) ](https://github.com/lovestarry7788/design_pattern/tree/master/05_strategy)
+* [观察者模式（Observer）](https://github.com/lovestarry7788/design_pattern/tree/master/06_observer)
